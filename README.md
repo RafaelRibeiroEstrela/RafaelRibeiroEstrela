@@ -24,7 +24,6 @@ relacionadas ao frontend para me tornar um profissional mais completo e eficient
 <code><img height="40" src="https://logospng.org/download/java/logo-java-1024.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
 <code><img height="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg"></code>
-<code><img height="40" src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1024/https://www.sosdigital.com.br/wp-content/uploads/2020/08/django-logo-scaled.jpg"></code>
 <code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"></code>
 <code><img height="40" src="https://logospng.org/download/oracle/oracle-256.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/1*9kZEeIFveAWBWAAXVyiLFw.png"></code>
