@@ -7,7 +7,7 @@
   Meu nome completo é <strong>Rafael Ribeiro Estrela</strong>, tenho 25 anos e moro em Cuiabá-MT.
 <p/>
 <p>
-  Graduado em Ciência da Computação pela UFMT e pós graduado em Administração em banco de dados.
+  Graduado em Ciência da Computação pela UFMT e pós graduado em Administração de Banco de Dados.
 <p/>
 
 <p>
