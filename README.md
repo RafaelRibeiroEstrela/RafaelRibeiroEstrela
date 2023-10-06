@@ -38,13 +38,6 @@ relacionadas ao frontend para me tornar um profissional mais completo e eficient
  <img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg"/>
 </div>
 
-<h4>Link para o meu curículo completo:</h2>
-<div>
-  <a href="https://drive.google.com/file/d/1DF5YxnDA1b4p-RXfLPpXnk_w2GcEPjma/view?usp=sharing" target="_blank">
-    <img alt="Rafael curriculo" height="35px" src="https://binaries.templates.cdn.office.net/support/templates/pt-br/lt16402487_quantized.png" >
-  </a>
-</div>
-
 
 <h4>Atalhos para os meus perfis nas redes sociais:</h2>
 <div>
