@@ -4,14 +4,14 @@
 <h4>Irei mostrar um resumo sobre mim:</h2>
 
 <p>
-  Meu nome completo é <strong>Rafael Ribeiro Estrela</strong>, tenho 25 anos e moro em Cuiabá-MT.
+  Meu nome completo é <strong>Rafael Ribeiro Estrela</strong>, tenho 26 anos e moro em Cuiabá-MT.
 <p/>
 <p>
   Graduado em Ciência da Computação pela UFMT e pós graduado em Administração de Banco de Dados.
 <p/>
 
 <p>
-Sou <strong>tecnologista e desenvolvedor backend</strong> em linguagens como Java, Python e banco de dados Oracle. Como desenvolvedor
+Sou <strong>tecnologista e desenvolvedor backend</strong> em linguagens como Java, Python e banco de dados Oracle e MongoDB. Como desenvolvedor
 busco procurar as melhores soluções e ferramentas para utilizar no desenvolvimento de softwares e oferecer
 produtos de valor às empresas com objetivo de aumentar a qualidade e melhoria dos processos.
 Tenho interesse em me especializar no desenvolvimento backend e posteriormente aprender tecnologias
