@@ -23,12 +23,14 @@ Como Analista de Sistemas, busco continuamente aprimorar meus conhecimentos e es
 <code><img height="40" src="https://logospng.org/download/java/logo-java-1024.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg"></code>
 <code><img height="40" src="https://www.tshirtgeek.com.br/wp-content/uploads/2021/03/com001.jpg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ab/TensorFlow_logo.svg"></code>
 <code><img height="40" src="https://logospng.org/download/oracle/oracle-256.png"></code>
+<code><img height="40" src="https://logospng.org/download/mongodb/mongodb-1024.png"></code>
 <code><img height="40" src="https://miro.medium.com/max/1400/1*9kZEeIFveAWBWAAXVyiLFw.png"></code>
 <code><img height="40" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png"></code>
 <code><img height="40" src="https://terminalroot.com.br/assets/img/css/css.png"></code>
 <code><img height="40" src="https://www.dialhost.com.br/blog/wp-content/uploads/2019/09/javascript_logo.png"></code>
+
+
 
 <h4>Alguns status do meu github:</h2>
 <div align="center">
