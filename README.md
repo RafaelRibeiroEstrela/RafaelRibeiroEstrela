@@ -11,11 +11,10 @@
 <p/>
 
 <p>
-Sou <strong>tecnologista e desenvolvedor backend</strong> em linguagens como Java, Python e banco de dados Oracle e MongoDB. Como desenvolvedor
-busco procurar as melhores soluções e ferramentas para utilizar no desenvolvimento de softwares e oferecer
-produtos de valor às empresas com objetivo de aumentar a qualidade e melhoria dos processos.
-Tenho interesse em me especializar no desenvolvimento backend e posteriormente aprender tecnologias
-relacionadas ao frontend para me tornar um profissional mais completo e eficiente.
+Sou um Engenheiro de software com habilidades sólidas em desenvolvimento de software, com foco em backend e expertise em bancos de dados. Minha experiência abrange a aplicação de princípios de engenharia de software para entregar soluções eficientes e escaláveis.
+Possuo proficiência em várias tecnologias, incluindo  linguagens de programa Java e Python, sistemas de mensageria e fluxo de eventos Kafka, bancos de dados Oracle e MongoDB, onde desenvolvi e otimizei estruturas de dados complexas para suportar aplicações corporativas.
+Minha abordagem é orientada a resultados, com habilidades analíticas fortes para identificar problemas, propor soluções e implementá-las de forma eficiente. 
+Como Analista de Sistemas, busco continuamente aprimorar meus conhecimentos e estar atualizado com as últimas tendências tecnológicas. Sou um profissional dedicado e comprometido em entregar soluções de qualidade, impulsionando o sucesso dos projetos e contribuindo para o crescimento da organização.
 </p>
 
 
