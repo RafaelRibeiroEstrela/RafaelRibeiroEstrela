@@ -11,9 +11,9 @@
 <p/>
 
 <p>
-Sou um Engenheiro de software com habilidades sólidas em desenvolvimento de software, com foco em backend e expertise em bancos de dados. Minha experiência abrange a aplicação de princípios de engenharia de software para entregar soluções eficientes e escaláveis.
-Possuo proficiência em várias tecnologias, incluindo  linguagens de programa Java e Python, sistemas de mensageria e fluxo de eventos Kafka, bancos de dados Oracle e MongoDB, onde desenvolvi e otimizei estruturas de dados complexas para suportar aplicações corporativas.
-Minha abordagem é orientada a resultados, com habilidades analíticas fortes para identificar problemas, propor soluções e implementá-las de forma eficiente. 
+Sou um Analista de Sistemas com habilidades sólidas em desenvolvimento de software, com foco em backend e expertise em bancos de dados. Minha experiência abrange a aplicação de princípios de engenharia de software para entregar soluções eficientes e escaláveis.
+Possuo proficiência em várias tecnologias, incluindo linguagens de programa Java e Python, sistemas de mensageria e fluxo de eventos Kafka, bancos de dados Oracle e MongoDB, onde desenvolvi e otimizei estruturas de dados complexas para suportar aplicações corporativas.
+Minha abordagem é orientada a resultados, com habilidades analíticas fortes para identificar problemas, propor soluções e implementá-las de forma eficiente.
 Como Analista de Sistemas, busco continuamente aprimorar meus conhecimentos e estar atualizado com as últimas tendências tecnológicas. Sou um profissional dedicado e comprometido em entregar soluções de qualidade, impulsionando o sucesso dos projetos e contribuindo para o crescimento da organização.
 </p>
 
